@@ -1,5 +1,5 @@
 {
-    "name": "mamykola/html-pretty-min",
+    "name":"herdwatch/html-pretty-min",
     "description":"HTML minifier and indenter that works on the DOM tree",
     "type":"library",
     "license":"MIT",
